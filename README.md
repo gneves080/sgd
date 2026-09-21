@@ -54,3 +54,7 @@ npm.cmd run lint
 - Crie uma segunda conta em `/register`.
 - Confirme que os dados criados pela conta demo não aparecem para o novo usuário.
 - Remova temporariamente `CRUDCRUD_BASE_URL` do `.env.local`, reinicie o servidor e repita os fluxos para validar o fallback local.
+
+6. Deploy
+
+https://sgd-rouge.vercel.app/
